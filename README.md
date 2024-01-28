@@ -1,2 +1,2 @@
 # MACHINE-LEARNING
-making predictions of number of medals in ML using a Linear model
+making predictions of number of medals in Olympics -ML with Linear model
